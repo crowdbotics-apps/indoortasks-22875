@@ -9,7 +9,6 @@ import SignUp14177319Navigator from '../features/SignUp14177319/navigator';
 import CopyOfSettings177314Navigator from '../features/CopyOfSettings177314/navigator';
 import CalendarView70177313Navigator from '../features/CalendarView70177313/navigator';
 import UserProfile177281Navigator from '../features/UserProfile177281/navigator';
-import Tutorial177280Navigator from '../features/Tutorial177280/navigator';
 import NotificationList177252Navigator from '../features/NotificationList177252/navigator';
 import Settings177243Navigator from '../features/Settings177243/navigator';
 import UserProfile177241Navigator from '../features/UserProfile177241/navigator';
@@ -25,7 +24,6 @@ SignUp14177319: { screen: SignUp14177319Navigator },
 CopyOfSettings177314: { screen: CopyOfSettings177314Navigator },
 CalendarView70177313: { screen: CalendarView70177313Navigator },
 UserProfile177281: { screen: UserProfile177281Navigator },
-Tutorial177280: { screen: Tutorial177280Navigator },
 NotificationList177252: { screen: NotificationList177252Navigator },
 Settings177243: { screen: Settings177243Navigator },
 UserProfile177241: { screen: UserProfile177241Navigator },
